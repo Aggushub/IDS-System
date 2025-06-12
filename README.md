@@ -24,9 +24,10 @@ This IDS project is designed to monitor, log, and analyze malicious activity in 
 
 ## 📂 Project Structure
 
-IDS-Project/
-│
-├── interceptor-ids-master                  # Honeypot setup and logs
+IDS-System
+
+│<br>
+├── interceptor-ids-master  #Zip file containing all the files <br> 
 └── README.md                # Project documentation
 
 
@@ -90,8 +91,7 @@ python train_adaboost.py
 
 ## 📬 Contact
 
-Have questions or want to collaborate?
+Have questions or want to collaborate?<br> 
 📧 Email: [joel.amosphilip@example.com](mailto:joel.amosphilip@example.com)
-🔗 LinkedIn: [linkedin.com/in/aghu-a570b9227](https://www.linkedin.com/in/aghu-a570b9227)
 
-``
+🔗 LinkedIn: [linkedin.com/in/aghu-a570b9227](https://www.linkedin.com/in/aghu-a570b9227)
