@@ -1,0 +1,21 @@
+# Node.js
+node_modules/
+dist/
+*.log
+npm-debug.log
+
+# Environment
+.env
+venv/
+myenv/
+
+# MongoDB
+mongodb/
+
+# Cowrie
+cowrie/var/
+cowrie/dl/
+cowrie_logs.json
+
+# Sensitive files
+GeoLite2-City.mmdb
